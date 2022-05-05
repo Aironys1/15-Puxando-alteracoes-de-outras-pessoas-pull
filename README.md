@@ -1,4 +1,3 @@
 <h3>15-Puxando alteracoes de outras pessoas pull</h3>
-## Estamos alterando o Readme
-### Estamos alterando o Readme
 
+<h2>Incluimos algumas explicações no HTML, e cor para o fundo do html</h2>
