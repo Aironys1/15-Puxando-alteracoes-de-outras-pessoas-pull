@@ -1,2 +1,0 @@
-nome = "Aironys";
-sobrenome = "Garrido";
